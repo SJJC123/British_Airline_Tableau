@@ -1,2 +1,2 @@
-# Tableau-Projects
-Welcome to the Tableau Projects Showcase repository! Explore a variety of projects with engaging visualizations covering diverse topics. Dive into interactive dashboards to uncover insights and trends within the data.
+# British Airways Tableau Project
+This dashboard explores the rating reviews that British Airways received from people across the world. This data analysis covers various aspects of services the company offers and how they are doing overall in the eyes of the consumer.
